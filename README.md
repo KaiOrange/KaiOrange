@@ -11,6 +11,6 @@
 console.log("Hello World");
 ```
 
-![](http://e0.ifengimg.com/02/2019/0320/8C88D77D86623F1ABF6739DD9B749EFCCBA45EE9_size224_w640_h427.gif)
+![](http://e0.ifengimg.com/02/2019/0320/8C88D77D86623F1ABF6739DD9B749EFCCBA45EE9_size224_w640_h427.gif){:width="240"}
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiOrange)](https://github.com/anuraghazra/github-readme-stats)
